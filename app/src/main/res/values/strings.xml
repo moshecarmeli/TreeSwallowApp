@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">TreeSwallowApp</string>
+    <string-array name="locations_array">
+        <item>Lake Los Carneros</item>
+        <item>Coal Oil Point Reserve</item>
+    </string-array>
+
+    <string-array name="box_array">
+        <item>Box 1</item>
+        <item>Box 2</item>
+        <item>Box 3</item>
+        <item>Box 4</item>
+        <item>Box 5</item>
+        <item>Box 6</item>
+        <item>Box 7</item>
+        <item>Box 8</item>
+        <item>Box 9</item>
+        <item>Box 10</item>
+        <item>Box 11</item>
+        <item>Box 12</item>
+        <item>Box 13</item>
+        <item>Box 14</item>
+    </string-array>
+
+    <string-array name="empty_selection">
+        <item>No Selection</item>
+    </string-array>
 </resources>
